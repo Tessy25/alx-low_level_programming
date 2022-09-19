@@ -1,2 +1,1 @@
-low level Engineering
-Debugging format
+c-pointers arrays and string
